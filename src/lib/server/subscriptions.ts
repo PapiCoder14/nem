@@ -1,4 +1,3 @@
-import { stripeSubscriptionSchema } from "$lib/schemas";
 import type Stripe from "stripe";
 import { supabaseAdmin } from "./supabase-admin";
 import { stripe } from "./stripe";
